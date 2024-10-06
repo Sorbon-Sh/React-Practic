@@ -1,0 +1,78 @@
+body{
+  display: grid;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+
+.form, .form div{
+  display: grid;
+  row-gap: 10px;
+}
+
+.form div{
+  position: relative;
+}
+
+.form div img{
+  position: absolute;
+  right: 3%;
+  top: 40px;
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.form input{
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.form label{
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+.form-wrapper{
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 50px;
+  width: 50vw;
+  height: 50vw;
+  background-color: azure;
+}
+
+.form span{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: red;
+}
+
+.form button{
+  padding: 15px;
+  font-size: 24px;
+  font-family: sans-serif;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.error{
+  display: none;
+}
+
+.modal{
+  position: absolute;
+  background-color: rgba(136, 141, 128, 0.445);
+  color: black;
+  font-family: sans-serif;
+  width: 40vw;
+  height: 40vw;
+  top: 10%;
+  right: 30%;;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}

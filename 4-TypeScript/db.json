@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": "as",
+      "title": "Сделать ДЗ",
+      "completed": false,
+      "date": "19.09.2024",
+      "time": "19:00"
+    },
+    {
+      "id": "hd",
+      "title": "Купить продукты",
+      "completed": true,
+      "date": "12.09.2024",
+      "time": "17:00"
+    },
+    {
+      "id": "tr",
+      "title": "Сдать проект",
+      "completed": false,
+      "date": "18.09.2024",
+      "time": "09:00"
+    },
+    {
+      "id": "4dd6",
+      "title": "Name and LastName",
+      "completed": false,
+      "date": "6.8.2024",
+      "time": "13:19",
+      "task": "gmail"
+    },
+    {
+      "id": "7aaa",
+      "title": "Name",
+      "completed": false,
+      "date": "1.8.2024",
+      "time": "20:30"
+    },
+    {
+      "id": "b06e",
+      "title": "My email",
+      "completed": true,
+      "date": "1.8.2024",
+      "time": "20:30"
+    },
+    {
+      "id": "e513",
+      "title": "New task",
+      "completed": false,
+      "date": "2.8.2024",
+      "time": "18:40"
+    }
+  ]
+}
